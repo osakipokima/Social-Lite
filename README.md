@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<h1 align="center" style="border-bottom: none;">🚀 Personality Insights Sample Application</h1>
+<h1 align="center" style="border-bottom: none;">🚀 Social Lite</h1>
 <h3 align="center">This Node.js app demonstrates how to analyze text and tweets using Personality Insights.</h3>
 <p align="center">
   <a href="http://travis-ci.org/watson-developer-cloud/personality-insights-nodejs">
@@ -148,5 +147,3 @@ Find more open source projects on the
 [service_url]: https://www.ibm.com/watson/services/personality-insights/
 [create_twitter_app]: https://apps.twitter.com/app/new
 =======
-
->>>>>>> fd516abb45db9fb1ef51a94adfad3ddebd3da13f
