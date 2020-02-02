@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center" style="border-bottom: none;">🚀 Personality Insights Sample Application</h1>
 <h3 align="center">This Node.js app demonstrates how to analyze text and tweets using Personality Insights.</h3>
 <p align="center">
@@ -10,7 +11,7 @@
 </p>
 </p>
 
-The IBM Watson [Personality Insights][service_url] service uses linguistic analysis to extract cognitive and social characteristics from input text such as email, text messages, tweets, forum posts, and more. By deriving cognitive and social preferences, the service helps users to understand, connect to, and communicate with other people on a more personalized level.
+Social Lite uses the IBM Watson Personality Insights service to assists users on how to be more social with tips and events to go to. You get rewarded as you progress in social activities on social lite. Users can also go and meet up with other Social Lite users.
 
 
 ## Prerequisites
@@ -146,3 +147,6 @@ Find more open source projects on the
 
 [service_url]: https://www.ibm.com/watson/services/personality-insights/
 [create_twitter_app]: https://apps.twitter.com/app/new
+=======
+
+>>>>>>> fd516abb45db9fb1ef51a94adfad3ddebd3da13f
